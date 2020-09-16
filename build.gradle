@@ -1,0 +1,22 @@
+group 'luceneDev'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.apache.lucene', name: 'lucene-core', version: '6.6.0'
+    compile group: 'org.apache.lucene', name: 'lucene-facet', version: '6.6.0'
+    compile group: 'org.apache.lucene', name: 'lucene-codecs', version: '6.6.0'
+    compile group: 'org.apache.lucene', name: 'lucene-analyzers-common', version: '6.6.0'
+    compile group: 'org.apache.lucene', name: 'lucene-queryparser', version: '6.6.0'
+    compile group: 'junit', name: 'junit', version: '4.11'
+
+
+}

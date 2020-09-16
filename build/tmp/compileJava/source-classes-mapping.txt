@@ -1,0 +1,34 @@
+searching/SearcherTest.java
+ searching.SearcherTest
+ searching.SearcherTest$1
+ searching.SearcherTest$10
+ searching.SearcherTest$11
+ searching.SearcherTest$12
+ searching.SearcherTest$2
+ searching.SearcherTest$3
+ searching.SearcherTest$4
+ searching.SearcherTest$5
+ searching.SearcherTest$6
+ searching.SearcherTest$7
+ searching.SearcherTest$8
+ searching.SearcherTest$9
+indexing/IndexingTest.java
+ indexing.IndexingTest
+extras/CodecExample.java
+ extras.CodecExample
+analysis/StemmerAnalyzer.java
+ analysis.StemmerAnalyzer
+analysis/ECharacterAnalyser.java
+ analysis.ECharacterAnalyser
+analysis/ECharacterTokenizer.java
+ analysis.ECharacterTokenizer
+analysis/SynonymAnalyzer.java
+ analysis.SynonymAnalyzer
+analysis/MultipleAnalyzer.java
+ analysis.MultipleAnalyzer
+analysis/AnalyzerTest.java
+ analysis.AnalyzerTest
+extras/FacetingExample.java
+ extras.FacetingExample
+indexing/IndexingTest1.java
+ indexing.IndexingTest1
